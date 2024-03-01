@@ -1,3 +1,5 @@
+#  PaoSystem
+
 Mon Application est une app qui aide à la mémoire pour l’instant elle consiste à se connecter en tant qu’utilisateur et participer à un cours appeler PAO system. Le PAO système est PAO system qui signifie Personne-Action-Objet est une technique de mémorisation dont chaque élément d'informations peut être associé à une personne, une action et un objet. Un exemple vaudra toujours mieux que de longue explications. L' élément d'informations que je choisie sera donc le 5 de coeur, j'aurai pu choisir d'autre élément d'informations comme une table, un numéro ou même un monument. 
 
 Une fois j'ai mon 5 de coeur, je vais lui associer un personnage qui sera donc .... Heinstein, une action comme la lecture et un objet qu'on représentera par une École. Un Objet est pour moi un élément physique.
